@@ -14,7 +14,9 @@ Solitaire Jump and Run Game: Python and Pygame
 <hr>
 <h4><a href="https://drive.google.com/file/d/1uNCAUIfnF3t2Sse_shnyYiXdlUii0D0_/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App for Intel</a></h4>
 <h4><a href="https://drive.google.com/file/d/1pqis1sqBGgJq_zJ58gwxW6wyVmzy5_1l/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App for Silicon (M1 or M2)</a></h4>
-<h4>Windows Installer Coming Soon</h4>
+
+<h4><a href="https://drive.google.com/file/d/1PefveN2x0dlX-Sm2oeiu82wa65cqoce8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
+
 <br>
 <img src="https://github.com/groeneveldwoodstock/Tribbles/blob/main/screenshot.png" alt="Screen Shot" width="400" 
      height=auto>
