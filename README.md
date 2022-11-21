@@ -23,3 +23,10 @@ Solitaire Jump and Run Game: Python and Pygame
   </body>
 <h5>One of the main reasons I did this little project was to practice and learn more about creating stable Mac and Windows Applications from Python.</h5>
 <h5>The setup.py file is the one I used to build the Mac Applications using py2app.</h5>
+
+<p>
+This project is available on Itch.io
+</p>
+
+[![Tribbles by Groeneveld](https://github.com/groeneveldwoodstock/Tribbles/blob/main/tribbles.itch.png)](https://groeneveld.itch.io/tribbles)
+</p>
